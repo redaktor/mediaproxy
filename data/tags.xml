@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<!DOCTYPE Tags SYSTEM "matroskatags.dtd">
+<Tags>
+ <!--Collection information-->
+ <Tag>
+  <Targets>
+   <TargetType>70</TargetType>
+  </Targets>
+  <Simple>
+   <Name>TITLE</Name>
+   <String>James Bond Filmreihe</String>
+   <TagLanguage>de</TagLanguage>
+  </Simple>
+ </Tag>
+ <!--Movie information-->
+ <Tag>
+  <Targets>
+   <TargetType>50</TargetType>
+  </Targets>
+  <Simple>
+   <Name>TITLE</Name>
+   <String>James Bond 007 - Casino Royale</String>
+   <TagLanguage>de</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>SUBTITLE</Name>
+   <String>Jeder hat eine Vergangenheit - Jede Legende einen Anfang.</String>
+   <TagLanguage>de</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>SYNOPSIS</Name>
+   <String>Sein erster Auftrag, nachdem er die Lizenz zum Töten erhalten hat, führt den MI6-Agenten James Bond nach Madagaskar, wo er auf den Terroristen Mollaka angesetzt wird. Zwar verläuft nicht alles nach Plan, doch als Bond auf eigene Faust weiter ermittelt kommt er auf die Spur von Le Chiffre, dem Bankier einer weltweit operierenden Terror-Organisation. Dieser plant, das Vermögen seiner Organisation durch ein illegales Pokerspiel im „Casino Royale“ von Montenegro um ein vielfaches zu erhöhen, wofür natürlich auch ein hoher Einsatz nötig ist. Der MI6 sieht daher die Chance, die Terroristen in den finanziellen Ruin zu treiben und beauftragt James Bond, die Pläne von Le Chiffre zunichte zu machen.</String>
+   <TagLanguage>de</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>DATE_RELEASED</Name>
+   <String>2006-11-14</String>
+  </Simple>
+  <Simple>
+   <Name>GENRE</Name>
+   <String>Abenteuer</String>
+   <TagLanguage>de</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>GENRE</Name>
+   <String>Action</String>
+   <TagLanguage>de</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>GENRE</Name>
+   <String>Thriller</String>
+   <TagLanguage>de</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>RATING</Name>
+   <String>3.75</String>
+  </Simple>
+  <Simple>
+   <Name>TMDB</Name>
+   <String>movie/36557</String>
+  </Simple>
+  <Simple>
+   <Name>IMDB</Name>
+   <String>tt0381061</String>
+  </Simple>
+  <Simple>
+   <Name>ORIGINAL</Name>
+   <Simple>
+    <Name>TITLE</Name>
+    <String>Casino Royale</String>
+    <TagLanguage>en</TagLanguage>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Daniel Craig</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>James Bond</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Eva Green</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Vesper Lynd</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Mads Mikkelsen</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Le Chiffre</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Judi Dench</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>M</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Jeffrey Wright</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Felix Leiter</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Giancarlo Giannini</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>René Mathis</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Caterina Murino</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Solange Dimitrios</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Simon Abkarian</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Alex Dimitrios</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Isaach De Bankolé</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Steven Obanno</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Jesper Christensen</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Mr. White</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Ivana Miličević</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Valenka</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Tobias Menzies</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Villiers</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Claudio Santamaria</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Carlos</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Sébastien Foucan</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Mollaka</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Malcolm Sinclair</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Dryden</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Richard Sammel</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Adolph Gettler</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Ludger Pistor</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Mendel</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Joseph Millson</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Carter</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Darwin Shaw</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Fisher</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Clemens Schick</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Kratt</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Emmanuel Avena</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Leo</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Tom Chadbon</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Stockbroker</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Ade</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Infante</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Urbano Barberini</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Tomelli</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Tsai Chin</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Madame Wu</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Lazar Ristovski</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Kaminofsky</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Veruschka von Lehndorff</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Gräfin von Wallenstein</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Charlie Levi Leroy</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Gallardo</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Tom So</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Fukutu</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Andreas Daniel</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Dealer</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Carlos Leal</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Tournament Director</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Christina Cole</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Ocean Club Receptionist</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Jürgen Tarrach</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Schultz</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>John Gold</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Card Players</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Diane Hartford</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Card Players</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Leo Stransky</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Tall Man</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Paul Bhattacharjee</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Hot Room Doctors</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Crispin Bonham-Carter</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Hot Room Doctors</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Rebecca Gethings</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Hot Room Technicians</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Peter Brooke</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Airport Policemen</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Robert G. Slade</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Pilot</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Félicité Du Jeu</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>French News Reporter</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Michaela Ochotská</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Shop Assistant</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Michael G. Wilson</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Chief of Police</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Valentine Nonyela</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Nambutu Embassy Official</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Phil Meheux</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Treasury Bureaucrat</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Alessandra Ambrosio</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Tennis Girls</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Vlastina Svátková</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Waitress</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Ivan G'Vera</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Venice Hotel Concierge</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Richard Branson</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Man at Airport Security (uncredited)</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Martin Campbell</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Airport Worker (uncredited)</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Tara Cardinal</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Woman in Casino (uncredited)</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Ben Cooke</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>MI6 Agent (uncredited)</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Simona Roman</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Dossier Girl (uncredited)</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ACTOR</Name>
+   <String>Greg Bennett</String>
+   <Simple>
+    <Name>CHARACTER</Name>
+    <String>Airport Driver, Miami (uncredited)</String>
+   </Simple>
+  </Simple>
+  <Simple>
+   <Name>ART_DIRECTOR</Name>
+   <String>Michael Lamont</String>
+  </Simple>
+  <Simple>
+   <Name>WRITTEN_BY</Name>
+   <String>Paul Haggis</String>
+  </Simple>
+  <Simple>
+   <Name>EDITED_BY</Name>
+   <String>Stuart Baird</String>
+  </Simple>
+  <Simple>
+   <Name>WRITTEN_BY</Name>
+   <String>Ian Fleming</String>
+  </Simple>
+  <Simple>
+   <Name>ART_DIRECTOR</Name>
+   <String>Peter Francis</String>
+  </Simple>
+  <Simple>
+   <Name>COSTUME_DESIGNER</Name>
+   <String>Lindy Hemming</String>
+  </Simple>
+  <Simple>
+   <Name>ART_DIRECTOR</Name>
+   <String>Steven Lawrence</String>
+  </Simple>
+  <Simple>
+   <Name>PRODUCER</Name>
+   <String>Barbara Broccoli</String>
+  </Simple>
+  <Simple>
+   <Name>DIRECTOR</Name>
+   <String>Martin Campbell</String>
+  </Simple>
+  <Simple>
+   <Name>DIRECTOR_OF_PHOTOGRAPHY</Name>
+   <String>Phil Meheux</String>
+  </Simple>
+  <Simple>
+   <Name>WRITTEN_BY</Name>
+   <String>Robert Wade</String>
+  </Simple>
+  <Simple>
+   <Name>WRITTEN_BY</Name>
+   <String>Neal Purvis</String>
+  </Simple>
+  <Simple>
+   <Name>PRODUCER</Name>
+   <String>Michael G. Wilson</String>
+  </Simple>
+  <Simple>
+   <Name>LEAD_PERFORMER</Name>
+   <String>Chris Cornell</String>
+  </Simple>
+  <Simple>
+   <Name>ART_DIRECTOR</Name>
+   <String>James Hambidge</String>
+  </Simple>
+  <Simple>
+   <Name>ART_DIRECTOR</Name>
+   <String>Dominic Masters</String>
+  </Simple>
+ </Tag>
+</Tags>
