@@ -98,15 +98,16 @@ Image operations;<br><br>
 <br>
 In the end:<br>
 Output operations;<br>
-`/jpg/{quality}/mozjpeg?_progressive?_optimiseScans?/`<br>
-`/jpeg/{quality}/mozjpeg?_progressive?_optimiseScans?/`<br>
-`/png/{quality}/progressive?/`<br>
-`/webp/{quality}/lossless?_nearLossless?_smartSubsample?_loop?/`<br>
-`/gif/{colors}/loop?/`<br>
-`/avif/{quality}/lossless?/`<br>
-`/heif/{quality}/lossless?/`<br>
-`/tif/{bitdepth}/`<br>
-`/tiff/{bitdepth}/`<br><br>
+
+`/jpg/{quality}/mozjpeg?_progressive?_optimiseScans?/` <br>
+`/jpeg/{quality}/mozjpeg?_progressive?_optimiseScans?/` <br>
+`/png/{quality}/progressive?/` <br>
+`/webp/{quality}/lossless?_nearLossless?_smartSubsample?_loop?/` <br>
+`/gif/{colors}/loop?/` <br>
+`/avif/{quality}/lossless?/` <br>
+`/heif/{quality}/lossless?/` <br>
+`/tif/{bitdepth}/` <br>
+`/tiff/{bitdepth}/` <br><br>
 [<br>
 For output formats a string; values separated by underscore: quality:number and named flags<br>
 quality is 1 - 100 and colors is 2 - 256;   e.g. /png/80/ or /jpg/80/progressive/<br>
